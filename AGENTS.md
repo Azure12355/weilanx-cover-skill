@@ -6,4 +6,3 @@
 - Keep the English and Simplified Chinese READMEs aligned.
 - Do not add binary reference images unless their publication rights are documented and the maintainer explicitly approves them.
 - Validate text changes with the commands documented in the READMEs.
-
