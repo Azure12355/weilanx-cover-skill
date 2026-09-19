@@ -1,7 +1,7 @@
-<h1 align="center">小红书封面 Skill</h1>
+<h1 align="center">weilanx 封面 Skill</h1>
 
 <p align="center">
-  <img src="./docs/assets/project-icon.svg" width="128" height="128" alt="小红书封面 Skill 图标">
+  <img src="./docs/assets/project-icon.svg" width="128" height="128" alt="weilanx 封面 Skill 图标">
 </p>
 
 <p align="center"><strong>一个用于生成多种比例、高冲击力中文内容封面的通用图片生成 Skill。</strong></p>
@@ -13,9 +13,9 @@
 
 ## 项目简介
 
-本仓库包含一个自包含的 Agent Skill，用于生成或修改小红书风格的教程、知识分享和经验复盘封面。它重点解决中文标题可读性、视觉层级、主题信息拼贴，以及用户人物图的身份保真。
+本仓库包含一个自包含的 Agent Skill，用于生成或修改 weilanx 风格的教程、知识分享和经验复盘封面。它重点解决中文标题可读性、视觉层级、主题信息拼贴，以及用户人物图的身份保真。
 
-仓库刻意不包含任何个人肖像、历史生成封面、私有风格参考图、本机绝对路径、账号标识或特定创作者品牌信息。
+仓库使用 weilanx 项目名称，并包含已授权展示的生成示例。私人人像、原始参考图、本机绝对路径和账号标识均不包含在仓库内。
 
 ## 功能
 
@@ -42,7 +42,7 @@
 示例请求：
 
 ```text
-使用 $xiaohongshu-cover 生成一张 3:4 教程封面。
+使用 $weilanx-cover-skill 生成一张 3:4 教程封面。
 标题：“3 步整理研究笔记”
 人物放在右侧，采用路径流程构图。
 只使用真实标签，不要虚构互动数据。

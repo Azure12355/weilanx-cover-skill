@@ -1,9 +1,9 @@
 ---
-name: xiaohongshu-cover
-description: Generate or revise Chinese tutorial and experience-sharing covers in 3:4 by default or another requested aspect ratio, using a user-provided portrait or character reference, high-contrast Chinese typography, layered dark backgrounds, and topic-specific information collage elements. Use when the user asks for a Xiaohongshu, short-video, tutorial, knowledge-sharing, or high-impact social cover, especially when identity consistency and readable Chinese titles matter.
+name: weilanx-cover-skill
+description: Generate or revise Chinese tutorial and experience-sharing covers in 3:4 by default or another requested aspect ratio, using a user-provided portrait or character reference, high-contrast Chinese typography, layered dark backgrounds, and topic-specific information collage elements. Use when the user asks for a weilanx, short-video, tutorial, knowledge-sharing, or high-impact social cover, especially when identity consistency and readable Chinese titles matter.
 ---
 
-# Xiaohongshu Cover
+# weilanx Cover
 
 Read [references/visual-style.md](references/visual-style.md) before generating a cover.
 

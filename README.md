@@ -1,7 +1,7 @@
-<h1 align="center">Xiaohongshu Cover Skill</h1>
+<h1 align="center">weilanx Cover Skill</h1>
 
 <p align="center">
-  <img src="./docs/assets/project-icon.svg" width="128" height="128" alt="Xiaohongshu Cover Skill icon">
+  <img src="./docs/assets/project-icon.svg" width="128" height="128" alt="weilanx Cover Skill icon">
 </p>
 
 <p align="center"><strong>A portable image-generation skill for high-impact Chinese social covers across multiple aspect ratios.</strong></p>
@@ -13,9 +13,9 @@
 
 ## Overview
 
-This repository contains a self-contained agent skill for generating or revising Xiaohongshu-style tutorial and experience-sharing covers. It focuses on readable Chinese titles, clear visual hierarchy, topic-specific information collage elements, and faithful use of a user-supplied portrait.
+This repository contains a self-contained agent skill for generating or revising weilanx-style tutorial and experience-sharing covers. It focuses on readable Chinese titles, clear visual hierarchy, topic-specific information collage elements, and faithful use of a user-supplied portrait.
 
-The repository intentionally contains no personal portraits, generated cover history, private style references, machine-specific paths, account identifiers, or creator-specific branding.
+The repository uses the weilanx project name and includes approved generated examples. Private portraits, source references, machine-specific paths, and account identifiers are excluded.
 
 ## Features
 
@@ -42,7 +42,7 @@ Provide:
 Example request:
 
 ```text
-Use $xiaohongshu-cover to create a 3:4 tutorial cover.
+Use $weilanx-cover-skill to create a 3:4 tutorial cover.
 Title: “3 steps to organize research notes”
 Put the person on the right and use a path-flow composition.
 Use only real labels and do not invent engagement metrics.
