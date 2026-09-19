@@ -1,0 +1,5 @@
+interface:
+  display_name: "Xiaohongshu Cover"
+  short_description: "Generate layered 3:4 Chinese social covers from a user portrait and title"
+  default_prompt: "Use $xiaohongshu-cover to turn my portrait, exact title, topic, and preferred composition into a clear prompt and generate a 3:4 cover."
+

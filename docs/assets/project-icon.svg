@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Layered portrait cover icon</title>
+  <desc id="desc">A dark rounded cover with a portrait circle, title bars, and small information cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="32" y1="24" x2="224" y2="232" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#131B4D"/>
+      <stop offset="1" stop-color="#4A246A"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="16" width="192" height="224" rx="28" fill="url(#bg)"/>
+  <rect x="52" y="42" width="112" height="20" rx="7" fill="#FFE36E" stroke="#11142A" stroke-width="6"/>
+  <rect x="52" y="72" width="146" height="20" rx="7" fill="#F9F5E8" stroke="#11142A" stroke-width="6"/>
+  <circle cx="91" cy="145" r="39" fill="#8EC5FF" stroke="#F9F5E8" stroke-width="8"/>
+  <path d="M70 157c8-21 34-21 42 0v17H70Z" fill="#1B2C69"/>
+  <circle cx="91" cy="135" r="14" fill="#F4C7A6"/>
+  <rect x="142" y="116" width="62" height="38" rx="9" fill="#24306A" stroke="#F9F5E8" stroke-width="5"/>
+  <rect x="142" y="166" width="46" height="30" rx="8" fill="#6D3F86" stroke="#F9F5E8" stroke-width="5"/>
+  <path d="m121 146 15-8m-15 20 15 9" stroke="#FFE36E" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+local-assets/
+outputs/
+*.log
+*.tmp
+*audit*.json
+
